@@ -3,7 +3,7 @@ we present a novel bilevel optimization training approach for ASR models that we
 
 # Dataset
 1. LibriSpeech: https://www.openslr.org/12
-2. https://www.openslr.org/19/
+2. Ted-Lium: https://www.openslr.org/19/
 
 # Comformer Model
 We have used conformer model from: https://github.com/sooftware/conformer
