@@ -15,3 +15,6 @@ We have used conformer model from: https://github.com/sooftware/conformer
 # InfoNCE Loss
 
 We have used InfoNCE loss from: https://github.com/RElbers/info-nce-pytorch
+
+# Acknowledgement
+Cisco Research and IBM Research
