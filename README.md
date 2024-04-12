@@ -1,4 +1,4 @@
-# JUST: Joint Unsupervised and Supervised Training for ASR
+# JUST: Joint self-supervised and supervised training for speech models
 We present a novel bilevel optimization training approach for ASR models that we term joint unsupervised and supervised training (JUST). JUST employs a lower-level optimization with an unsupervised loss and an upper-level optimization with a supervised loss, leveraging recent advances in penalty-based bilevel optimization.
 
 <p align="center">
