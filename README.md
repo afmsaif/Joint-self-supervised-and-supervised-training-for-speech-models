@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Screenshot 2023-09-07 at 21-23-28 AIRC_asr.png" width="500" title="hover text">
+  <img src="path/to/your/image.png" width="500" title="BL-JUST Framework">
 </p>
 
 # Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization
@@ -25,9 +25,14 @@ In this paper, we present a novel bilevel optimization-based training approach f
 ## Getting Started
 
 1. **Dependencies**:
-   1. Python=3.9
-   2. Pytorch=2
+    - Python=3.9
+    - Pytorch=2
 2. **Installation**: Step-by-step guide to setting up the environment.
+    ```bash
+    git clone https://github.com/yourusername/bl-just-asr.git
+    cd bl-just-asr
+    pip install -r requirements.txt
+    ```
 3. **Running Experiments**: Detailed instructions to run the training and evaluation scripts.
 
 ## Usage
@@ -45,12 +50,13 @@ In this paper, we present a novel bilevel optimization-based training approach f
 If you find this code useful in your research, please consider citing our paper:
 
 @article{saif2024joint,
-  title={Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization},
-  author={Saif, AFM and Cui, Xiaodong and Shen, Han and Lu, Songtao and Kingsbury, Brian and Chen, Tianyi},
-  journal={arXiv preprint arXiv:2401.06980},
-  year={2024}
+title={Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization},
+author={Saif, AFM and Cui, Xiaodong and Shen, Han and Lu, Songtao and Kingsbury, Brian and Chen, Tianyi},
+journal={arXiv preprint arXiv:2401.06980},
+year={2024}
 }
+
 
 ## Acknowledgments
 
-This work was supported by the Rensselaer-IBM AI Research Collaboration, part of the IBM AI Horizons Network and cisco research grant. 
+This work was supported by the Rensselaer-IBM AI Research Collaboration, part of the IBM AI Horizons Network and Cisco research grant.
