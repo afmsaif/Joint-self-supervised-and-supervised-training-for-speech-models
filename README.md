@@ -50,3 +50,7 @@ If you find this code useful in your research, please consider citing our paper:
   journal={arXiv preprint arXiv:2401.06980},
   year={2024}
 }
+
+## Acknowledgments
+
+This work was supported by the Rensselaer-IBM AI Research Collaboration, part of the IBM AI Horizons Network.
