@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="path/to/your/image.png" width="500" title="BL-JUST Framework">
+  <img src="Screenshot 2023-09-07 at 21-23-28 AIRC_asr.png" width="500" title="BL-JUST Framework">
 </p>
 
 # Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization
