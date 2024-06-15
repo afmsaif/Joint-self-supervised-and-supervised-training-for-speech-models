@@ -29,7 +29,7 @@ In this paper, we present a novel bilevel optimization-based training approach f
     - Pytorch=2
 2. **Installation**: Step-by-step guide to setting up the environment.
     ```bash
-    git clone https://github.com/yourusername/bl-just-asr.git
+    git clone https://github.com/afmsaif/Joint-self-supervised-and-supervised-training-for-speech-models.git
     cd bl-just-asr
     pip install -r requirements.txt
     ```
