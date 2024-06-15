@@ -24,7 +24,9 @@ In this paper, we present a novel bilevel optimization-based training approach f
 
 ## Getting Started
 
-1. **Dependencies**: List of required libraries and tools.
+1. **Dependencies**:
+   1. Python=3.9
+   2. Pytorch=2
 2. **Installation**: Step-by-step guide to setting up the environment.
 3. **Running Experiments**: Detailed instructions to run the training and evaluation scripts.
 
@@ -42,4 +44,9 @@ In this paper, we present a novel bilevel optimization-based training approach f
 
 If you find this code useful in your research, please consider citing our paper:
 
-
+@article{saif2024joint,
+  title={Joint Unsupervised and Supervised Training for Automatic Speech Recognition via Bilevel Optimization},
+  author={Saif, AFM and Cui, Xiaodong and Shen, Han and Lu, Songtao and Kingsbury, Brian and Chen, Tianyi},
+  journal={arXiv preprint arXiv:2401.06980},
+  year={2024}
+}
