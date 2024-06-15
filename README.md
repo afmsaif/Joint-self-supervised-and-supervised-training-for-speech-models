@@ -53,4 +53,4 @@ If you find this code useful in your research, please consider citing our paper:
 
 ## Acknowledgments
 
-This work was supported by the Rensselaer-IBM AI Research Collaboration, part of the IBM AI Horizons Network.
+This work was supported by the Rensselaer-IBM AI Research Collaboration, part of the IBM AI Horizons Network and cisco research grant. 
